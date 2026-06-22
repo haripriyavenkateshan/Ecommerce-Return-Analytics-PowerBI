@@ -50,5 +50,16 @@ High product return rates lead to revenue loss and reduced customer satisfaction
 - Improve customer satisfaction and ratings.
 - Strengthen logistics operations in high-return regions.
 
+  ## Dashboard Screenshots
+
+### Dashboard 1
+![Dashboard 1](Dashboard1%20png.png)
+
+### Dashboard 2
+![Dashboard 2](Dashboard2%20png.png)
+
+### Dashboard 3
+![Dashboard 3](Dashboard%203%20png.png)
+
 ## Author
 Haripriya V
